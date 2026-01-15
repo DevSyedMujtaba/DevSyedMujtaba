@@ -2,8 +2,9 @@
 <h3 align="center">Full-Stack Developer (Backend-Focused) | MERN | Typescript | Node.js</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev_mujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="DevSyedMujtaba" />
+  <img src="https://komarev.com/ghpvc/?username=DevSyedMujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="DevSyedMujtaba" />
 </p>
+
 
 ---
 
