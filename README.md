@@ -1,56 +1,67 @@
-# Hi, I'm Mujtaba Bukhari 👋
+<h1 align="center">Hi 👋, I'm Mujtaba Bukhari</h1>
+<h3 align="center">Full-Stack Developer (Backend-Focused) | MERN | Typescript | Node.js</h3>
 
-🚀 Backend Developer | MERN Stack | Node.js | Supabase  | Clickhouse | MySQL
-📍 Pakistan  
-
-I’m a backend-focused developer with strong experience in **Node.js, Express, koa, MySQL, MongoDB, PostgreSQL, Supabase**, and **TypeScript**.  
-I enjoy building scalable APIs, authentication systems, and data-driven products.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev_mujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="DevSyedMujtaba" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔧 Backend Developer (MERN Stack)
-- 🌱 Currently learning **DevOps & Advanced System Design**
-- ⚡ Working with **Supabase Edge Functions**
-- 💡 Interested in **AI-powered products & SaaS platforms**
-- 🎯 Preparing for **Backend / MERN interviews**
+I’m a **backend-focused full-stack developer** with strong experience in building **scalable APIs**, **authentication systems**, and **data-driven applications**.
+
+- 🚀 Backend first mindset (Node.js, APIs, Databases)
+- 🧠 Experience with **Supabase Edge Functions**
+- 🔐 Auth systems using **JWT & Supabase Auth**
+- 🌱 Currently learning **DevOps & System Design**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Node.js, Express.js, Koa.js
-- MongoDB, MySQL, PostgreSQL, ClickHouse
-- Supabase (Auth, Storage, Edge Functions)
-- Prisma, Sequelize
+### 🔹 Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</p>
 
-**Frontend**
-- React.js
-- HTML, CSS, JavaScript
+### 🔹 Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
-**Tools & DevOps**
-- Git & GitHub
-- Docker
-- Vercel
-- REST APIs
-- JWT & OAuth
+### 🔹 Supabase & Cloud
+<p>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45"/>
+</p>
 
----
+### 🔹 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev_mujtaba&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev_mujtaba&layout=compact&theme=tokyonight)
+### 🔹 Tools & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 GitHub: [github.com/DevSyedMujtaba](https://github.com/DevSyedMujtaba)
-- 💬 Open to collaboration on backend & SaaS projects
+- 💼 GitHub: https://github.com/DevSyedMujtaba
+- 📫 Open to **Backend / Full-Stack roles**
+- 🤝 Open to **collaboration & SaaS projects**
 
 ---
 
-⭐️ *Consider starring my repositories!*
+⭐ *Consider starring my repositories*
