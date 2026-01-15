@@ -31,7 +31,7 @@ I’m a **backend-focused full-stack developer** with strong experience in build
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" title="ClickHouse"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/clickhouse-2.svg" width="45" title="ClickHouse"/>
 </p>
 
 ### 🔹 ORM & Database Tooling
