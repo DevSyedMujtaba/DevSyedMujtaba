@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Bukhari</h1>
 <h3 align="center">Full-Stack Developer (Backend-Focused) | MERN | Typescript | Node.js</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevSyedMujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="DevSyedMujtaba" />
-</p>
-
 
 ---
 
@@ -64,5 +60,7 @@ I’m a **backend-focused full-stack developer** with strong experience in build
 - 🤝 Open to **collaboration & SaaS projects**
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevSyedMujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="DevSyedMujtaba" />
+</p>
 ⭐ *Consider starring my repositories*
