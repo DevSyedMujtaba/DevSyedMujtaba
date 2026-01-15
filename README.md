@@ -21,11 +21,10 @@ I’m a **backend-focused full-stack developer** with strong experience in build
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/koa/koa-original.svg" width="45" title="Koa.js"/>
+  <img src="https://cdn.simpleicons.org/koa/000000" width="45" title="Koa.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
 </p>
-
 
 ### 🔹 Databases
 <p>
