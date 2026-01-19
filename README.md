@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Mujtaba Bukhari</h1>
 <h3 align="center">Full-Stack Developer (Backend-Focused) | MERN | Typescript | Node.js</h3>
